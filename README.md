@@ -78,7 +78,7 @@ void main() {
 
 ## 💻 OUTPUT
 
-<img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/1f5d9e2b-ad28-4b27-8d96-a50fc26f9752" />
+<img width="1280" height="967" alt="WhatsApp Image 2026-09-05 at 8 56 16 PM" src="https://github.com/user-attachments/assets/a85f93e2-2915-4ef2-98e8-304e651b43e4" />
 
 
 
